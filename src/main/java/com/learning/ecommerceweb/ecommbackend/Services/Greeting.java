@@ -1,6 +1,7 @@
 package com.learning.ecommerceweb.ecommbackend.Services;
 
-public class Greeting {
+public class
+Greeting {
 	private final long id;
 	private final String content;
 
